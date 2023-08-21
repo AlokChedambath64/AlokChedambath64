@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Web Development and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Web Development and DSA**
 
-- 💬 Ask me about **C, Java, Python, SQLite**
+- 💬 Ask me about **Pointers in C, Memory Allocation**
 
 - 📫 How to reach me **alokchedambath1@gmail.com**
 
