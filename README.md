@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokchedambath64&label=Profile%20views&color=0e75b6&style=flat" alt="alokchedambath64" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Creating a stock analysis web app**
 
 - 🌱 I’m currently learning **Web Development and DSA**
 
