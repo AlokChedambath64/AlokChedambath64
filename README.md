@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokchedambath64&label=Profile%20views&color=0e75b6&style=flat" alt="alokchedambath64" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Flask**
 
 - 📫 How to reach me **alokchedambath1@gmail.com**
 
