@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokchedambath64&label=Profile%20views&color=0e75b6&style=flat" alt="alokchedambath64" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **A website to help users tracks tasks**
 
-- 🌱 I’m currently learning **Web Development and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Web Development and DSA**
 
-- 💬 Ask me about **C, Java, Python, SQLite**
+- 💬 Ask me about **C, Python, Flask, Jinja**
 
 - 📫 How to reach me **alokchedambath1@gmail.com**
 
